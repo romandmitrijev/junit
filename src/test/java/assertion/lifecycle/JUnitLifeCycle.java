@@ -1,4 +1,4 @@
-package assertation.lifecycle;
+package assertion.lifecycle;
 
 import org.junit.*;
 

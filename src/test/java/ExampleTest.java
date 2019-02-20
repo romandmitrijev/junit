@@ -1,4 +1,4 @@
-import assertation.Calculator;
+import assertion.Calculator;
 import org.junit.Test;
 
 

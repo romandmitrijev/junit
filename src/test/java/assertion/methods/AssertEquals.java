@@ -1,4 +1,4 @@
-package assertation.methods;
+package assertion.methods;
 
 import org.junit.Test;
 

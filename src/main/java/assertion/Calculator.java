@@ -1,4 +1,4 @@
-package assertation;
+package assertion;
 
 public class Calculator {
 

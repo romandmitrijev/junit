@@ -1,4 +1,4 @@
-package assertation.parameter;
+package assertion.parameter;
 
 public class ParametrizedTest {
 
